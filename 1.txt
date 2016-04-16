@@ -1,3 +1,5 @@
 abcd
 
 Git training
+
+This is branch 2
